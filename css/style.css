@@ -1,0 +1,39 @@
+body{
+  background: #00d2ff;
+  background: -webkit-linear-gradient(to right, #00d2ff, #3a7bd5);
+  background: linear-gradient(to right, #00d2ff, #3a7bd5);
+}
+.tropical{
+  font-family:cursive;
+  color: #f7325e;
+}
+.description{
+  font-family:fantasy;
+  color: #7dc410;
+}
+.popular{
+  color: #c4c932;
+  font-family: fantasy;
+}
+.text{
+  color: #fff;
+  font-weight: bold;
+}
+.image{
+
+  height: 25%;
+
+}
+img{
+  height: 426px;
+  width: 640px;
+}
+.important {
+  color: red;
+}
+.unimportant {
+  color: blue;
+}
+.cat-climate {
+background-color: yellow;
+}
